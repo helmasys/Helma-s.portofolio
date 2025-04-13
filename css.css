@@ -250,29 +250,6 @@ body {
 	display: block;
 }
 
-.footer-bar {
-  background-color: #ccc;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
-  margin-top: 30px;
-  border-top: 2px solid #999;
-}
-
-.footer-bar .circle-img-container {
-  display: flex;
-  gap: 8px;
-}
-
-.footer-text {
-  font-family: 'Roboto Mono', monospace;
-  font-size: 0.85rem;
-  color: #333;
-  margin: 0;
-}
-
-
 .main {
 	display: flex;
 }
